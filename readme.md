@@ -1,2 +1,1 @@
-Creando repositorio
 primer branching
